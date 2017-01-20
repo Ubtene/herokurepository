@@ -1,0 +1,154 @@
+
+
+ * {
+ 	box-sizing: border-box;
+ }
+
+
+
+#banner {
+color: white ;
+background-color:#4aaaa5;
+height: 70px;
+width: 221px;
+float: left; 
+margin-left:100px;
+padding: 20px;	
+text-align: center; 
+font-size:20px;
+font-family:Georgia;
+white-space: nowrap;
+}
+
+#nav {
+float:left;	
+margin-left:400px; 
+margin-top: 30px;
+margin-bottom:0;   
+font-family: Georgia; 
+font-size: 20px; 
+}
+
+#about {
+
+padding:20px; 
+padding-bottom:30px;
+color:silver;	 
+}
+
+#Contact {
+
+padding:20px; 
+padding-bottom:30px;
+color:silver; 
+}
+
+
+#port {
+padding-bottom: 30px; 
+padding: 20px; 
+color:silver; 
+
+}
+
+#connect {
+
+	padding:30px;
+	margin-top: 0;
+	margin-right: 100px;
+	width: 235px;
+	height: 176px;
+	float: right;
+	background-color: white; 
+	text-align: center;
+	color: #4aaaa5;
+	font-weight: bold;
+	font-family: Georgia;
+}
+
+
+
+
+#connect-box {
+	padding-bottom: 10px; 
+	clear:both; 
+	border-bottom: solid 1.5px; 
+	border-color: #efebf0; 
+}
+
+
+.in {
+		
+	padding: 3.75px;
+	margin-top: 40px;
+}
+
+
+#main-section {
+	clear:both; 
+	background-color: #D3D3D3;
+	padding:20px;
+	width: 1191px;
+	height:494px;
+	padding-bottom: 30px;	
+	padding-left: 140px; 	
+}
+
+#body-text {
+
+	background-color: white; 
+	width: 600px;
+	height: 400px;
+	margin-right: 400px;
+	padding:30px;
+	font-family:Arial;
+	
+}
+
+#bio-image {
+
+	float: left;
+	padding: 10px;
+	width:185px;
+	height: 180px;
+	padding-top: 20px;	
+}
+
+
+
+#me {
+
+	font-weight:bold;
+	font-size:30px;
+	color: #4aaaa5 ;
+	margin: 2px;
+	margin-bottom: 5px;
+	padding:5px;
+	border-bottom: solid;
+	border-color: #efebf0;
+	width: 95%;
+	padding-bottom: 20px;
+	font-family: Georgia;
+}
+
+
+
+#no-float {
+
+clear:both;
+padding:20px;
+
+}
+
+#footer {	
+color:#cababa;	
+background-color: #666666;  
+border-top:solid #4aaaa5;
+border-top-width:8px ; 
+width: 1191px ;
+text-align:center;
+padding:30px;
+font-family:Arial;
+font-size: 12px;
+
+}

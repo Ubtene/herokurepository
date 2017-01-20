@@ -1,0 +1,157 @@
+
+
+ * {
+ 	box-sizing: border-box;
+ }
+
+body {
+
+	width: 1200px;
+	height: 634px;
+}
+
+
+#banner {
+color: white ;
+background-color:#4aaaa5;
+height: 70px;
+width: 221px;
+float: left; 
+margin-left:100px;
+padding: 20px;	
+text-align: center; 
+font-size:20px;
+font-family:Georgia;
+white-space: nowrap;
+}
+
+#nav {
+float:left;	
+margin-left:400px; 
+margin-top: 30px;
+margin-bottom:0;   
+font-family: Georgia; 
+font-size: 20px; 
+}
+
+#about {
+
+padding:20px; 
+padding-bottom:30px;
+color:silver;	 
+}
+
+#Contact {
+
+padding:20px; 
+padding-bottom:30px;
+color:silver; 
+}
+
+#port {
+padding-bottom: 30px; 
+padding: 20px; 
+color:silver; 
+
+}
+
+
+#main-section {
+	clear:both;
+	background-color: #D3D3D3; 
+	padding:20px;
+	margin-left:0px; 
+	padding-left: 140px; 
+	width: 1100px;
+	height:494px;	
+}
+
+
+#body-text {
+	background-color: white; 
+	width: 600px;
+	height: 1500px;
+	margin-top: 0px;
+	margin-right: 400px;
+	padding:30px;
+	font-family:Arial;
+}
+
+
+#connect {
+	margin-left: 700px;
+	width:220px;
+	height:10px;
+
+}
+
+
+#connect-box {
+	padding-bottom: 30px; 
+	height:5px;
+	border-bottom: solid 1.5px; 
+	border-color: #efebf0; 
+	color: #4aaaa5;
+	font-weight: bold;
+	font-family: Georgia;
+	text-align: center;
+}
+
+
+#link-box {
+
+		padding:30px;
+		height:50px;
+
+}
+
+
+
+#second-banner {
+
+	font-weight:bold;
+	font-size:20px;
+	color: #4aaaa5 ;
+	margin-bottom: 15px;
+	border-bottom: solid;
+	border-color: #efebf0;
+	width: 95%;	
+	height:50px;
+	font-family: Georgia;
+}
+
+
+
+.necessary {
+
+color:gray;
+font-style: Georgia; 
+
+}
+
+.first-size {
+	width: 420px;
+}
+
+
+#message-bar {
+
+
+		height:154px;
+		width:426px;
+
+}
+
+
+#footer {	
+color:#cababa;	
+background-color: #666666;  
+border-top:solid #4aaaa5;
+border-top-width:8px ; 
+width: 1100px ;
+text-align:center;
+padding:30px;
+font-family:Arial;
+font-size: 12px;
+
+}
